@@ -1,7 +1,7 @@
-streamlit
-pandas
-yfinance
-numpy
-requests
-lxml
-html5lib
+ streamlit==1.28.0
+  pandas==2.1.0
+  yfinance==0.2.18
+  numpy==1.24.3
+  requests==2.31.0
+  lxml==4.9.3
+  html5lib==1.1
